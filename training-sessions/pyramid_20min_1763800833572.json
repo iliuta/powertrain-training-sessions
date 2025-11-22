@@ -100,7 +100,7 @@
                     "title": "Interval 5",
                     "duration": 90,
                     "targets": {
-                        "Instantaneous Pace": "100%"
+                        "Instantaneous Pace": "101%"
                     },
                     "resistanceLevel": 90,
                     "repeat": null
