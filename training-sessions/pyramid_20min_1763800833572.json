@@ -1,0 +1,184 @@
+{
+    "title": "Pyramid 20min",
+    "ftmsMachineType": "rower",
+    "intervals": [
+        {
+            "repeat": 1,
+            "intervals": [
+                {
+                    "title": "Warm Up 1",
+                    "duration": 60,
+                    "targets": {
+                        "Instantaneous Pace": "84%",
+                        "Stroke Rate": 20
+                    },
+                    "resistanceLevel": 20,
+                    "repeat": null
+                },
+                {
+                    "title": "Warm Up 2",
+                    "duration": 60,
+                    "targets": {
+                        "Instantaneous Pace": "87%",
+                        "Stroke Rate": 20
+                    },
+                    "resistanceLevel": 30,
+                    "repeat": null
+                },
+                {
+                    "title": "Warm Up 3",
+                    "duration": 60,
+                    "targets": {
+                        "Instantaneous Pace": "90%",
+                        "Stroke Rate": 20
+                    },
+                    "resistanceLevel": 40,
+                    "repeat": null
+                },
+                {
+                    "title": "Warm Up 4",
+                    "duration": 60,
+                    "targets": {
+                        "Instantaneous Pace": "93%",
+                        "Stroke Rate": 20
+                    },
+                    "resistanceLevel": 50,
+                    "repeat": null
+                },
+                {
+                    "title": "Warm Up 5",
+                    "duration": 60,
+                    "targets": {
+                        "Instantaneous Pace": "96%",
+                        "Stroke Rate": 20
+                    },
+                    "resistanceLevel": 60,
+                    "repeat": null
+                }
+            ]
+        },
+        {
+            "repeat": 1,
+            "intervals": [
+                {
+                    "title": "Interval 1",
+                    "duration": 90,
+                    "targets": {
+                        "Instantaneous Pace": "97%"
+                    },
+                    "resistanceLevel": 70,
+                    "repeat": null
+                },
+                {
+                    "title": "Interval 2",
+                    "duration": 90,
+                    "targets": {
+                        "Instantaneous Pace": "99%"
+                    },
+                    "resistanceLevel": 90,
+                    "repeat": null
+                },
+                {
+                    "title": "Interval 3",
+                    "duration": 90,
+                    "targets": {
+                        "Instantaneous Pace": "101%"
+                    },
+                    "resistanceLevel": 100,
+                    "repeat": null
+                },
+                {
+                    "title": "Interval 4",
+                    "duration": 90,
+                    "targets": {
+                        "Instantaneous Pace": "103%"
+                    },
+                    "resistanceLevel": 110,
+                    "repeat": null
+                },
+                {
+                    "title": "Interval 5",
+                    "duration": 90,
+                    "targets": {
+                        "Instantaneous Pace": "100%"
+                    },
+                    "resistanceLevel": 90,
+                    "repeat": null
+                },
+                {
+                    "title": "Interval 6",
+                    "duration": 90,
+                    "targets": {
+                        "Instantaneous Pace": "99%"
+                    },
+                    "resistanceLevel": 80,
+                    "repeat": null
+                },
+                {
+                    "title": "Interval 7",
+                    "duration": 90,
+                    "targets": {
+                        "Instantaneous Pace": "97%"
+                    },
+                    "resistanceLevel": 70,
+                    "repeat": null
+                }
+            ]
+        },
+        {
+            "repeat": 1,
+            "intervals": [
+                {
+                    "title": "Cool down 1",
+                    "duration": 60,
+                    "targets": {
+                        "Instantaneous Pace": "96%",
+                        "Stroke Rate": 20
+                    },
+                    "resistanceLevel": 60,
+                    "repeat": null
+                },
+                {
+                    "title": "Cool down 2",
+                    "duration": 60,
+                    "targets": {
+                        "Instantaneous Pace": "93%",
+                        "Stroke Rate": 20
+                    },
+                    "resistanceLevel": 50,
+                    "repeat": null
+                },
+                {
+                    "title": "Cool down 3",
+                    "duration": 60,
+                    "targets": {
+                        "Instantaneous Pace": "90%",
+                        "Stroke Rate": 20
+                    },
+                    "resistanceLevel": 40,
+                    "repeat": null
+                },
+                {
+                    "title": "Cool down 4",
+                    "duration": 60,
+                    "targets": {
+                        "Instantaneous Pace": "87%",
+                        "Stroke Rate": 20
+                    },
+                    "resistanceLevel": 30,
+                    "repeat": null
+                },
+                {
+                    "title": "Cool down 5",
+                    "duration": 60,
+                    "targets": {
+                        "Instantaneous Pace": "84%",
+                        "Stroke Rate": 20
+                    },
+                    "resistanceLevel": 20,
+                    "repeat": null
+                }
+            ]
+        }
+    ]
+}
