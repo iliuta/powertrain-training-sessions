@@ -37,6 +37,7 @@
             <li><strong>Rowing FTP</strong>: expressed in min/500m.</li>
             <li><strong>Developer mode</strong>: allows the activation of some hidden features for debugging purposes.</li>    
         </ul>
+        <p>The FTP values are used to calculate the power targets for the training sessions.</p>
     </section>
 
     <section id="scan">
@@ -63,14 +64,15 @@
             <li>Ensure your fitness machine and sensors are connected.</li>
             <li>Tap the "Open" button near the connected machine name.</li>
             <li>You may choose to start a "Free ride" or select a saved "Training session"</li>
-            <li>For a free ride, select the desired duration. For rowers, a warm-up and cool-down are automatically included.</li>
+            <li>For a free ride, you can select "Time" or "Distance" and
+                select the desired duration or distance. For rowers, a warm-up and cool-down are automatically included.</li>
             <li>For a saved training session, select it from the list and tap "Start session".</li>
         </ul>
         <h3>Performing a Session</h3>
         <ul>
-            <li>Once started, you'll see at the top a visual representation of the intervals and the current elapsed and remaining time</li>
-            <li>On the left, you'll find the current interval with its targets and elapsed and remaining time.</li>
-            <li>The main part is filled with numbers. The target values change the color to red when not in the desired range.</li>
+            <li>Once started, you'll see at the top a visual representation of the intervals and the current elapsed and remaining time or distance.</li>
+            <li>On the left, you'll find the current interval with its targets and elapsed and remaining time or distance.</li>
+            <li>The main part is filled with actual data coming from the fitness machine and sensors. The target values, as defined in the training session, change the color to red when not in the desired range.</li>
             <li>When the current interval is about to end, a beep is played to alert you.</li>
         </ul>
         <p>You can pause the session at any time by tapping the pause button or end it by tapping the stop button. When the session ends,
@@ -86,9 +88,11 @@
         <p>There are built-in training sessions and custom training sessions. The built-in sessions cannot be edited 
             but can be duplicated.</p>
         <p>You can add, edit, and delete custom training sessions. They are stored locally on your mobile device.</p>
+        <p>When you create first a custom training session, you can select whether the session is time based or distance based. Once 
+            selected and the session saved, you cannot change its type.</p>
         <p>You can add, edit, and delete "unit intervals" and "group intervals".</p>
-        <p>Unit intervals are intervals with a duration. Group intervals are intervals containing one or more unit intervals with a number of repetitions.</p>
-        <p>Unit intervals have a title, a duration and targets. You can choose to have a target for the speed/power, or the cadence.</p>
+        <p>Unit intervals are intervals with a duration or distance, depending on the session type. Group intervals are intervals containing one or more unit intervals with a number of repetitions.</p>
+        <p>Unit intervals have a title, a duration/distance and targets. You can choose to have a target for the speed/power, or the cadence.</p>
         <p>The speed/power is expressed in percent and its values are <strong>calculated based on the FTP value you set in the settings.</strong></p>
 
         <p><strong>Note about the resistance level:</strong> For the rowing machines, it depends on the machine. For Domyos woodrower, which has 15 levels of resistance, the values are 10, 20, 30, ..., 150 for resistances from 1 to 15</p>
