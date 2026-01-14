@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="de">
+<html lang="en">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PowerTrain App Benutzerhandbuch</title>
+    <title>FTMS App User Guide</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -34,170 +34,185 @@
 </head>
 
 <body>
-    <h1>PowerTrain App Benutzerhandbuch</h1>
+    <h1>PowerTrain App User Guide</h1>
 
     <section id="settings">
-        <h2>Einstellungsseite</h2>
-        <p>Die Einstellungsseite ermöglicht es Ihnen, verschiedene Aspekte der Anwendung zu konfigurieren, um Ihre Erfahrung anzupassen.
-            Hier
-            sind die wichtigsten Datenfelder, die sie enthalten kann:</p>
+        <h2>Settings Page</h2>
+        <p>The Settings page allows you to configure various aspects of the application to customize your experience.
+            Here
+            are the key data fields it can hold:</p>
         <ul>
-            <li><strong>Cycling FTP</strong>: ausgedrückt in Watt.</li>
-            <li><strong>Rowing FTP</strong>: ausgedrückt in min/500m.</li>
-            <li><strong>Entwicklermodus</strong>: ermöglicht die Aktivierung einiger versteckter Funktionen für Debugging-Zwecke.
+            <li><strong>Cycling FTP</strong>: expressed in Watt.</li>
+            <li><strong>Rowing FTP</strong>: expressed in min/500m.</li>
+            <li><strong>Developer mode</strong>: allows the activation of some hidden features for debugging purposes.
             </li>
         </ul>
-        <p>Die FTP-Werte werden verwendet, um die Leistungsziele für die Trainingseinheiten zu berechnen.</p>
+        <p>The FTP values are used to calculate the power targets for the training sessions.</p>
     </section>
 
     <section id="scan">
-        <h2>Scan-Seite</h2>
-        <p>Die Scan-Seite listet die verfügbaren Bluetooth-Geräte auf, wie Fitnessmaschinen und Sensoren. Die folgenden Geräte
-            werden
-            unterstützt: FTMS-kompatible Maschinen (wie Rudergeräte und Heimtrainer), Herzfrequenzmonitore und
-            Kadenzsensoren (nur für Heimtrainer)</p>
-        <h3>Scannen nach Geräten</h3>
+        <h2>Scan Page</h2>
+        <p>The scan page lists the available Bluetooth devices, like fitness machines and sensors. The following devices
+            are
+            supported: FTMS-compatible machines (like rowing machines and home trainers), heart rate monitors and
+            cadence
+            sensors (only for home trainers)</p>
+        <h3>Scanning for Devices</h3>
         <ul>
-            <li>Tippen Sie auf die Schaltfläche "Nach Geräten suchen", um nach nahegelegenen Bluetooth-fähigen Fitnessmaschinen und Sensoren zu suchen.
+            <li>Tap the "Scan for devices" button to search for nearby Bluetooth-enabled fitness machines and sensors.
             </li>
-            <li>Die App zeigt eine Liste der entdeckten Geräte an, einschließlich Rudergeräte, Fahrradtrainer und Herzfrequenzmonitore.
+            <li>The app will display a list of discovered devices, including rowing machines, bike trainers, and heart
+                rate
+                monitors.
             </li>
-            <li>Tippen Sie auf die Schaltfläche "Verbinden" neben dem Gerät, um es mit Ihrem Telefon zu koppeln.</li>
+            <li>Tap the "Connect" button near the device to pair it with your phone.</li>
         </ul>
-        <h3>Strava-Verbindung</h3>
+        <h3>Strava Connection</h3>
         <ul>
-            <li>Verbinden Sie Ihr Strava-Konto, um Ihre Workouts zu synchronisieren.</li>
-            <li>Tippen Sie auf die Strava-Verbindungsschaltfläche, um Ihr Konto zu authentifizieren und zu verknüpfen.</li>
-            <li>Sobald verbunden, können Ihre Trainingseinheiten nach Abschluss zu Strava hochgeladen werden.</li>
+            <li>Connect your Strava account to sync your workouts.</li>
+            <li>Tap the Strava connection button to authenticate and link your account.</li>
+            <li>Once connected, your training sessions, when completed, can be uploaded to Strava.</li>
         </ul>
     </section>
 
     <section id="start-training">
-        <h2>Starten und Durchführen einer Trainingseinheit</h2>
-        <h3>Eine Einheit starten</h3>
+        <h2>Starting and Performing a Training Session</h2>
+        <h3>Starting a session</h3>
         <ul>
-            <li>Stellen Sie sicher, dass Ihre Fitnessmaschine und Sensoren verbunden sind.</li>
-            <li>Tippen Sie auf die Schaltfläche "Öffnen" neben dem Namen der verbundenen Maschine.</li>
-            <li>Oben sehen Sie eine Liste vordefinierter Routen. Optional können Sie eine davon auswählen. Wenn nicht, wählt die
-                Anwendung zufällig eine aus.
+            <li>Ensure your fitness machine and sensors are connected.</li>
+            <li>Tap the "Open" button near the connected machine name.</li>
+            <li>On top you'll see a list of predefined routes. Optionally you may select one of them. If you don't, the
+                application will pick up one randomly.
             </li>
-            <li>Sie können wählen, eine "Freie Fahrt" zu starten, eine Trainingseinheit zu generieren oder eine gespeicherte "Trainingseinheit" auszuwählen
+            <li>You may choose to start a "Free ride", generate a training session or select a saved "Training session"
             </li>
-            <li>Freie Fahrt:
+            <li>Free ride:
                 <ul>
-                    <li>Wählen Sie "Zeit" oder "Distanz".</li>
-                    <li>Wählen Sie die gewünschte Dauer oder Distanz.</li>
-                    <li>Optional können Sie für Ruderer die Schlagrate und die Pace-Ziele auswählen.</li>
-                    <li>Optional können Sie für Trainer die Ziel-Leistung und Kadenz auswählen.</li>
-                    <li>Wenn die Maschine das Einstellen des Widerstands unterstützt, können Sie den Widerstandslevel des Ruderers/Trainers
-                        in seinem akzeptierten Bereich auswählen.
+                    <li>Select "Time" or "Distance".</li>
+                    <li>Select the desired duration or distance.</li>
+                    <li>Optionally, for rowers, you can select the stroke rate and the pace targets.</li>
+                    <li>Optionally, for trainers you can select the target power and cadence.</li>
+                    <li>If the machine supports setting the resistance, you can select the rower/trainer resistance
+                        level in
+                        its accepted range.
                     </li>
-                    <li>Tippen Sie auf "Start".</li>
+                    <li>Tap "Start".</li>
                 </ul>
             </li>
-            <li>Trainingseinheit-Generator:
+            <li>Training session generator:
                 <ul>
-                    <li>Wählen Sie die gewünschte Dauer.</li>
-                    <li>Wählen Sie den Workout-Typ.</li>
-                    <li>Wenn die Maschine das Einstellen des Widerstands unterstützt, können Sie den Widerstandslevel des Ruderers/Trainers
-                        in seinem akzeptierten Bereich auswählen.
+                    <li>Select the desired duration.</li>
+                    <li>Select the workout type.</li>
+                    <li>If the machine supports setting the resistance, you can select the rower/trainer resistance
+                        level in
+                        its accepted range.
                     </li>
-                    <li>Tippen Sie auf "Start".</li>
+                    <li>Tap "Start".</li>
                 </ul>
             </li>
-            <li>Gespeicherte Trainingseinheit:
+            <li>Saved training session:
                 <ul>
-                    <li>Wählen Sie eine Trainingseinheit aus der Liste.</li>
-                    <li>Tippen Sie auf "Einheit starten".</li>
+                    <li>Select a training session from the list.</li>
+                    <li>Tap "Start session".</li>
                 </ul>
             </li>
         </ul>
-        <h3>Eine Einheit durchführen</h3>
+        <h3>Performing a session</h3>
         <p>
-            Oben haben Sie den Einheitstitel und einige Steuerelemente, die es ermöglichen, den Metronom-Sound, den Alarm-Sound zu deaktivieren,
-            die Einheit zu pausieren/starten und zu stoppen.</p>
+            On top you have the session title and some controls allowing to cut the metronome's sound, the alerts sound,
+            to pause/start and stop the session.</p>
         <p>
-            Sobald gestartet, sehen Sie oben eine visuelle Darstellung der Intervalle und die aktuelle verstrichene und
-            verbleibende Zeit oder Distanz.</p>
+            Once started, you'll see at the top a visual representation of the intervals and the current elapsed and
+            remaining time or distance.</p>
         <p>
-            Links finden Sie das aktuelle Intervall mit seinen Zielen und der verstrichenen und verbleibenden Zeit oder Distanz.
+            On the left, you'll find the current interval with its targets and elapsed and remaining time or distance.
         </p>
-        <p>Der Hauptteil ist mit tatsächlichen Daten aus der Fitnessmaschine und Sensoren gefüllt. Die Zielwerte, wie
-            in der Trainingseinheit definiert, ändern die Farbe zu Rot, wenn sie nicht im gewünschten Bereich liegen.</p>
-        <p>Außerdem gibt es eine Overlay-Karte mit Ihrer aktuellen Position und der Route.</p>
-        <p>Wenn das aktuelle Intervall endet, wird ein Piepton abgespielt, um Sie zu alarmieren.</p>
+        <p>The main part is filled with actual data coming from the fitness machine and sensors. The target values, as
+            defined in the training session, change the color to red when not in the desired range.</p>
+        <p>Also, there is an overlay map with your current position and the route.</p>
+        <p>When the current interval is about to end, a beep is played to alert you.</p>
 
-        <h4>Eine Einheit starten</h4>
+        <h4>Starting a session</h4>
         <p>
-            Beginnen Sie mit Rudern oder Pedalieren
-        </p>
-
-        <p>Wenn das aktuelle Intervall ein Schlagraten-Ziel hat, hören Sie einen Metronom-Sound bei der Ziel-Schlagrate. Sie können diesen
-            Sound deaktivieren, indem Sie auf das Metronom-Symbol tippen.
+            Start rowing or pedaling
         </p>
 
-        <h4>Eine Einheit pausieren/fortsetzen</h4>
-        <p>Hören Sie auf zu rudern oder zu pedalieren. Wenn keine Aktivität vorhanden ist, pausiert die App die Einheit automatisch.</p>
-        <p>Oder Sie können auf die Pausieren/Fortsetzen-Schaltfläche tippen.</p>
+        <p>If the current interval has a stroke rate target, then you'll hear a metronome sound at the target stroke
+            rate. You may disable this
+            sound by tapping the metronome icon.
+        </p>
 
-        <h4>Eine Einheit beenden</h4>
-        <p>Rudern/Pedalen Sie bis zum Ende der Einheit. Dann haben Sie drei Optionen:</p>
+        <h4>Pausing/resuming a session</h4>
+        <p>Stop rowing or pedaling. If there is no activity, the app will automatically pause the session.</p>
+        <p>Or, you can tap the pause/resume button.</p>
+
+        <h4>Ending a session</h4>
+        <p>Row/pedal until the end of the session. You'll have three options then:</p>
         <ul>
-            <li>Speichern Sie die Einheit. Wenn mit Strava verbunden, wird die Einheit automatisch zu Strava hochgeladen. Sie finden
-                sie dort mit der entsprechenden Routenkarte. Wenn nicht mit Strava verbunden, finden Sie die Aktivität unter dem "Unsynchronisierte Aktivitäten"-Menü</li>
-            <li>Einheit fortsetzen: Die Einheit wird verlängert, damit Sie mit den gleichen Einstellungen wie dem letzten Intervall weiter rudern/pedalieren können.</li>
-            <li>Einheit verwerfen: Alle Daten gehen verloren</li>
+            <li>Save the session. If connected to Strava, the session is uploaded automatically to Strava. You'll find
+                it there with the corresponding route map. If not connected
+                to Strava, you'll find the activity under the "Unsynchronized activities" menu</li>
+            <li>Continue the session: the session will be prolonged so that you can continue rowing/pedaling with the
+                same settings as the last interval.</li>
+            <li>Discard the session: all data is lost</li>
         </ul>
-        <p>Sie können jederzeit auf die "Stopp"-Schaltfläche tippen, um die Einheit zu beenden.</p>
+        <p>You can hit the "Stop" button any time to end the session.</p>
 
-        <h4>Hinweis zu Indoor-Fahrrädern (Heimtrainer)</h4>
-        <p>Ihr Heimtrainer muss ein Smart-Trainer sein und das Einstellen der Ziel-Leistung (ERG-Modus) unterstützen.
-            Die Einheiten werden im ERG-Modus durchgeführt.
-            Die App setzt die Ziel-Leistung. Der Trainer
-            passt kontinuierlich den Widerstand an, damit Sie bei dieser Leistung bleiben, auch wenn sich Ihre Pedalkadenz ändert.</p>
+        <h4>Note about indoor bikes (home trainers)</h4>
+        <p>Your home trainer must be a smart trainer and support setting the target power (ERG mode).
+            The sessions are performed in ERG mode.
+            The app sets the target power. The trainer
+            continuously adjusts resistance so that you stay at that power, even if your pedaling cadence changes.</p>
     </section>
 
     <section id="edit-training">
-        <h2>Trainingseinheiten anzeigen und bearbeiten</h2>
-        <p>Wählen Sie "Trainingseinheiten" aus dem Burger-Menü, dann wählen Sie den Maschinentyp aus der Liste.</p>
-        <p>Es gibt integrierte Trainingseinheiten und benutzerdefinierte Trainingseinheiten. Die integrierten Einheiten können nicht bearbeitet
-            werden, aber dupliziert werden.</p>
-        <p>Sie können benutzerdefinierte Trainingseinheiten hinzufügen, bearbeiten und löschen. Sie werden lokal auf Ihrem Mobilgerät gespeichert.</p>
-        <p>Wenn Sie zuerst eine benutzerdefinierte Trainingseinheit erstellen, können Sie auswählen, ob die Einheit zeitbasiert oder distanzbasiert ist. Sobald
-            ausgewählt und die Einheit gespeichert, können Sie ihren Typ nicht ändern.</p>
-        <p>Sie können "Einheitsintervalle" und "Gruppenintervalle" hinzufügen, bearbeiten und löschen.</p>
-        <p>Einheitsintervalle sind Intervalle mit einer Dauer oder Distanz, abhängig vom Einheitstyp. Gruppenintervalle sind
-            Intervalle, die ein oder mehrere Einheitsintervalle mit einer Anzahl von Wiederholungen enthalten.</p>
-        <p>Einheitsintervalle haben einen Titel, eine Dauer/Distanz und Ziele. Sie können wählen, ein Ziel für die
-            Geschwindigkeit/Leistung oder die Kadenz zu haben.</p>
-        <p>Die Geschwindigkeit/Leistung wird in Prozent ausgedrückt und ihre Werte werden <strong>basierend auf dem FTP-Wert berechnet, den Sie
-                in den Einstellungen festgelegt haben.</strong></p>
+        <h2>Viewing and editing training sessions</h2>
+        <p>Select "Training sessions" from the burger menu, then select the machine type from the list.</p>
+        <p>There are built-in training sessions and custom training sessions. The built-in sessions cannot be edited
+            but can be duplicated.</p>
+        <p>You can add, edit, and delete custom training sessions. They are stored locally on your mobile device.</p>
+        <p>When you create first a custom training session, you can select whether the session is time based or distance
+            based. Once
+            selected and the session saved, you cannot change its type.</p>
+        <p>You can add, edit, and delete "unit intervals" and "group intervals".</p>
+        <p>Unit intervals are intervals with a duration or distance, depending on the session type. Group intervals are
+            intervals containing one or more unit intervals with a number of repetitions.</p>
+        <p>Unit intervals have a title, a duration/distance and targets. You can choose to have a target for the
+            speed/power, or the cadence.</p>
+        <p>The speed/power is expressed in percent and its values are <strong>calculated based on the FTP value you set
+                in
+                the settings.</strong></p>
 
-        <p><strong>Hinweis zum Widerstandslevel:</strong> Für die Rudergeräte hängt es von der Maschine ab. Domyos
-            Ruderer haben 15 Widerstandsstufen und die Werte sind 10, 20, 30, ..., 150 für Widerstände von 1 bis 15.
-            Sie können mit dem Entwicklermodus spielen, um die Widerstandsstufen Ihrer Maschine herauszufinden. Auch im Freifahrt-Modus können Sie den Widerstandslevel auswählen, wie er von Ihrer Maschine unterstützt wird.
+        <p><strong>Note about the resistance level:</strong> For the rowing machines, it depends on the machine. Domyos
+            rowers have 15 levels of resistance and the values are 10, 20, 30, ..., 150 for resistances from 1 to 15.
+            You can play with developer mode to find out the resistance levels of your machine. Also, in free ride mode,
+            you can select the resistance level as it is supported by your machine.
         </p>
 
     </section>
     <section id="fit-files">
-        <h2>Unsynchronisierte Aktivitäten</h2>
-        <p>Wählen Sie "Unsynchronisierte Aktivitäten" aus dem Burger-Menü.</p>
-        <p>Dort finden Sie die Workout-Dateien, die von der App generiert wurden, wenn sie nicht zu Strava gesendet werden konnten.</p>
-        <p>Für jede können Sie versuchen, sie zu Strava hochzuladen, zu löschen oder mit anderen Apps zu teilen.</p>
-        <p>Tippen Sie auf den Aktivitätsnamen. Sie sehen eine visuelle Darstellung der Daten in der Datei, wie Geschwindigkeit/Pace,
-            Kadenz und Herzfrequenz</p>
-        <p>Wenn Sie mit Strava verbunden sind und Uploads nicht fehlgeschlagen sind, sollte die Liste leer sein.</p>
+        <h2>Unsynchronized activities</h2>
+        <p>Select "Unsynchronized activities" from the burger menu.</p>
+        <p>You'll find there the workout files generated by the app when they couldn't be sent to Strava.</p>
+        <p>For each, you can try to upload it to Strava, delete it, or share it with other apps.</p>
+        <p>Tap on the activity name. You'll see visual representation of data contained in the file, like speed/pace,
+            cadence and heart rate</p>
+        <p>If you're connected to Strava and uploads didn't fail, the list should be empty.</p>
     </section>
     <section id="developer-mode">
-        <h2>Entwicklermodus</h2>
-        <p>Wenn Sie den Entwicklermodus in den Einstellungen aktivieren, haben Sie Zugriff auf die unterstützten Funktionen der Fitnessmaschine und können Daten von und zur Maschine lesen und senden.</p>
-        <p><strong>Warnung:</strong> Verwenden Sie dies mit Vorsicht!</p>
-        <p>Von der Scan-Seite aus wählen Sie die Maschine und tippen auf "Öffnen". Sie sehen zwei Menüs unten auf der Seite: "Gerätedaten-Funktionen"
-            und "Maschinen-Funktionen".</p>
-        <h3>Gerätedaten-Funktionen</h3>
-        <p>Hier sind die Daten, die von der Maschine gelesen werden können, mit den aktuellen Werten.</p>
-        <h3>Maschinen-Funktionen</h3>
-        <p>Hier sind die Befehle, die an die Maschine gesendet werden können. Darunter könnten Sie den "Widerstandslevel" oder das Leistungsziel (ERG-Modus) einstellen. Wenn Sie einen davon verwenden möchten, senden Sie immer zuerst den Anforderungssteuerbefehl.</p>
+        <h2>Developer mode</h2>
+        <p>When you activate the developer mode in the settings, you'll have access to the fitness machine's supported
+            features and you can read and send data from and to the machine.</p>
+        <p><strong>Warning:</strong> Use this with caution!</p>
+        <p>From the scan page, select the machine and tap "Open". You'll see two menus down the page: "Device data
+            features"
+            and "Machine features".</p>
+        <h3>Device data features</h3>
+        <p>Here are the data that can be read from the machine, with the current values.</p>
+        <h3>Machine features</h3>
+        <p>Here are the commands that can be sent to the machine. Among them, you might be able to set the "resistance
+            level" or the power target (ERG mode). When you want to use one of those, always send the request control
+            command first.</p>
     </section>
 </body>
 
