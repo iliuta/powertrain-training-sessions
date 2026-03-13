@@ -1,0 +1,225 @@
+{
+  "title": "2k race",
+  "ftmsMachineType": "rower",
+  "intervals": [
+    {
+      "repeat": 1,
+      "intervals": [
+        {
+          "title": "Warm Up 1",
+          "duration": null,
+          "distance": 200,
+          "targets": {
+            "Instantaneous Pace": "84%",
+            "Stroke Rate": 18
+          },
+          "resistanceLevel": 20,
+          "resistanceNeedsConversion": true,
+          "repeat": null
+        },
+        {
+          "title": "Warm Up 2",
+          "duration": null,
+          "distance": 200,
+          "targets": {
+            "Instantaneous Pace": "87%",
+            "Stroke Rate": 18
+          },
+          "resistanceLevel": 30,
+          "resistanceNeedsConversion": true,
+          "repeat": null
+        },
+        {
+          "title": "Warm Up 3",
+          "duration": null,
+          "distance": 200,
+          "targets": {
+            "Instantaneous Pace": "90%",
+            "Stroke Rate": 20
+          },
+          "resistanceLevel": 40,
+          "resistanceNeedsConversion": true,
+          "repeat": null
+        },
+        {
+          "title": "Warm Up 4",
+          "duration": null,
+          "distance": 200,
+          "targets": {
+            "Instantaneous Pace": "93%",
+            "Stroke Rate": 22
+          },
+          "resistanceLevel": 50,
+          "resistanceNeedsConversion": true,
+          "repeat": null
+        },
+        {
+          "title": "Warm Up 5",
+          "duration": null,
+          "distance": 200,
+          "targets": {
+            "Instantaneous Pace": "96%",
+            "Stroke Rate": 22
+          },
+          "resistanceLevel": 60,
+          "resistanceNeedsConversion": true,
+          "repeat": null
+        }
+      ]
+    },
+    {
+      "repeat": 5,
+      "intervals": [
+        {
+          "title": "High",
+          "duration": null,
+          "distance": 100,
+          "targets": {
+            "Instantaneous Pace": "110%",
+            "Stroke Rate": 34
+          },
+          "resistanceLevel": 90,
+          "resistanceNeedsConversion": true,
+          "repeat": null
+        },
+        {
+          "title": "Low",
+          "duration": null,
+          "distance": 400,
+          "targets": {
+            "Instantaneous Pace": "93%",
+            "Stroke Rate": 24
+          },
+          "resistanceLevel": 60,
+          "resistanceNeedsConversion": true,
+          "repeat": null
+        }
+      ]
+    },
+    {
+      "title": "Stop",
+      "duration": null,
+      "distance": 100,
+      "targets": {
+        "Instantaneous Pace": "60%"
+      },
+      "resistanceLevel": 40,
+      "resistanceNeedsConversion": true,
+      "repeat": 1
+    },
+    {
+      "title": "500m",
+      "duration": null,
+      "distance": 500,
+      "targets": {
+        "Instantaneous Pace": "110%",
+        "Stroke Rate": 34
+      },
+      "resistanceLevel": 90,
+      "resistanceNeedsConversion": true,
+      "repeat": null
+    },
+    {
+      "title": "500m",
+      "duration": null,
+      "distance": 500,
+      "targets": {
+        "Stroke Rate": 28,
+        "Instantaneous Pace": "102%"
+      },
+      "resistanceLevel": 90,
+      "resistanceNeedsConversion": true,
+      "repeat": null
+    },
+    {
+      "title": "500m",
+      "duration": null,
+      "distance": 500,
+      "targets": {
+        "Instantaneous Pace": "106%",
+        "Stroke Rate": 30
+      },
+      "resistanceLevel": 90,
+      "resistanceNeedsConversion": true,
+      "repeat": null
+    },
+    {
+      "title": "500m",
+      "duration": null,
+      "distance": 500,
+      "targets": {
+        "Instantaneous Pace": "110%",
+        "Stroke Rate": 34
+      },
+      "resistanceLevel": 90,
+      "resistanceNeedsConversion": true,
+      "repeat": null
+    },
+    {
+      "repeat": 1,
+      "intervals": [
+        {
+          "title": "Cool down 1",
+          "duration": null,
+          "distance": 200,
+          "targets": {
+            "Instantaneous Pace": "96%",
+            "Stroke Rate": 22
+          },
+          "resistanceLevel": 60,
+          "resistanceNeedsConversion": true,
+          "repeat": null
+        },
+        {
+          "title": "Cool down 2",
+          "duration": null,
+          "distance": 200,
+          "targets": {
+            "Instantaneous Pace": "93%",
+            "Stroke Rate": 20
+          },
+          "resistanceLevel": 50,
+          "resistanceNeedsConversion": true,
+          "repeat": null
+        },
+        {
+          "title": "Cool down 3",
+          "duration": null,
+          "distance": 200,
+          "targets": {
+            "Instantaneous Pace": "90%",
+            "Stroke Rate": 20
+          },
+          "resistanceLevel": 40,
+          "resistanceNeedsConversion": true,
+          "repeat": null
+        },
+        {
+          "title": "Cool down 4",
+          "duration": null,
+          "distance": 200,
+          "targets": {
+            "Instantaneous Pace": "87%",
+            "Stroke Rate": 18
+          },
+          "resistanceLevel": 30,
+          "resistanceNeedsConversion": true,
+          "repeat": null
+        },
+        {
+          "title": "Cool down 5",
+          "duration": null,
+          "distance": 200,
+          "targets": {
+            "Instantaneous Pace": "84%",
+            "Stroke Rate": 18
+          },
+          "resistanceLevel": 20,
+          "resistanceNeedsConversion": true,
+          "repeat": null
+        }
+      ]
+    }
+  ],
+  "isDistanceBased": true
+}
