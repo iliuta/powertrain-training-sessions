@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="StravaGPX" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+ <metadata>
+  <name>Paris Olympics</name>
+  <author>
+   <name>Adrian P.</name>
+   <link href="https://www.strava.com/athletes/1321007"/>
+  </author>
+  <copyright author="OpenStreetMap contributors">
+   <year>2020</year>
+   <license>https://www.openstreetmap.org/copyright</license>
+  </copyright>
+  <link href="https://www.strava.com/routes/3467461486287937370"/>
+ </metadata>
+ <trk>
+  <name>JOP2024 aviron</name>
+  <link href="https://www.strava.com/routes/3467461486287937370"/>
+  <type>Rowing</type>
+  <trkseg>
+   <trkpt lat="48.866640000000004" lon="2.6085000000000003">
+    <ele>34.60000000000001</ele>
+   </trkpt>
+   <trkpt lat="48.866478237872016" lon="2.609784368794426">
+    <ele>34.54</ele>
+   </trkpt>
+   <trkpt lat="48.86631646147953" lon="2.611068729284891">
+    <ele>34.33</ele>
+   </trkpt>
+   <trkpt lat="48.866154670822716" lon="2.6123530814707654">
+    <ele>34.58</ele>
+   </trkpt>
+   <trkpt lat="48.86599286590177" lon="2.613637425351417">
+    <ele>34.47</ele>
+   </trkpt>
+   <trkpt lat="48.86583104671683" lon="2.6149217609262143">
+    <ele>34.660000000000004</ele>
+   </trkpt>
+   <trkpt lat="48.86566921326807" lon="2.616206088194527">
+    <ele>34.620000000000005</ele>
+   </trkpt>
+   <trkpt lat="48.8655073655557" lon="2.6174904071557235">
+    <ele>34.42000000000001</ele>
+   </trkpt>
+   <trkpt lat="48.865345503579874" lon="2.618774717809173">
+    <ele>34.53</ele>
+   </trkpt>
+   <trkpt lat="48.865183627340755" lon="2.6200590201542444">
+    <ele>34.49</ele>
+   </trkpt>
+   <trkpt lat="48.86502173683853" lon="2.621343314190307">
+    <ele>34.61</ele>
+   </trkpt>
+   <trkpt lat="48.86485983207337" lon="2.62262759991673">
+    <ele>34.510000000000005</ele>
+   </trkpt>
+   <trkpt lat="48.86469791304544" lon="2.623911877332882">
+    <ele>34.56</ele>
+   </trkpt>
+   <trkpt lat="48.864535979754926" lon="2.625196146438132">
+    <ele>34.550000000000004</ele>
+   </trkpt>
+   <trkpt lat="48.86437403220201" lon="2.62648040723185">
+    <ele>34.410000000000004</ele>
+   </trkpt>
+   <trkpt lat="48.86421207038685" lon="2.627764659713405">
+    <ele>34.54</ele>
+   </trkpt>
+   <trkpt lat="48.8640500943096" lon="2.629048903882166">
+    <ele>34.36</ele>
+   </trkpt>
+   <trkpt lat="48.86388810397048" lon="2.630333139737502">
+    <ele>34.56</ele>
+   </trkpt>
+   <trkpt lat="48.86372609936962" lon="2.631617367278782">
+    <ele>34.49</ele>
+   </trkpt>
+   <trkpt lat="48.86356408050723" lon="2.6329015865053766">
+    <ele>34.42000000000001</ele>
+   </trkpt>
+   <trkpt lat="48.86340204738345" lon="2.6341857974166545">
+    <ele>34.58</ele>
+   </trkpt>
+   <trkpt lat="48.863240000000005" lon="2.63547">
+    <ele>34.300000000000004</ele>
+   </trkpt>
+  </trkseg>
+ </trk>
+</gpx>
