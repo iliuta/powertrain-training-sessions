@@ -11,7 +11,7 @@
           "duration": null,
           "distance": 200,
           "targets": {
-            "Instantaneous Pace": "70%",
+            "Instantaneous Pace": "80%",
             "Stroke Rate": 18
           },
           "resistanceLevel": 20,
@@ -22,7 +22,7 @@
           "duration": null,
           "distance": 200,
           "targets": {
-            "Instantaneous Pace": "75%",
+            "Instantaneous Pace": "83%",
             "Stroke Rate": 20
           },
           "resistanceLevel": 30,
@@ -33,7 +33,7 @@
           "duration": null,
           "distance": 200,
           "targets": {
-            "Instantaneous Pace": "80%",
+            "Instantaneous Pace": "86%",
             "Stroke Rate": 22
           },
           "resistanceLevel": 40,
@@ -44,7 +44,7 @@
           "duration": null,
           "distance": 200,
           "targets": {
-            "Instantaneous Pace": "85%",
+            "Instantaneous Pace": "89%",
             "Stroke Rate": 24
           },
           "resistanceLevel": 40,
@@ -55,7 +55,7 @@
           "duration": null,
           "distance": 200,
           "targets": {
-            "Instantaneous Pace": "90%",
+            "Instantaneous Pace": "92%",
             "Stroke Rate": 26
           },
           "resistanceLevel": 50,
@@ -108,7 +108,7 @@
           "duration": null,
           "distance": 200,
           "targets": {
-            "Instantaneous Pace": "85%",
+            "Instantaneous Pace": "92%",
             "Stroke Rate": 22
           },
           "resistanceLevel": 40,
@@ -119,7 +119,7 @@
           "duration": null,
           "distance": 200,
           "targets": {
-            "Instantaneous Pace": "80%",
+            "Instantaneous Pace": "89%",
             "Stroke Rate": 20
           },
           "resistanceLevel": 30,
@@ -130,7 +130,7 @@
           "duration": null,
           "distance": 200,
           "targets": {
-            "Instantaneous Pace": "75%",
+            "Instantaneous Pace": "86%",
             "Stroke Rate": 20
           },
           "resistanceLevel": 30,
@@ -141,7 +141,7 @@
           "duration": null,
           "distance": 200,
           "targets": {
-            "Instantaneous Pace": "70%",
+            "Instantaneous Pace": "83%",
             "Stroke Rate": 18
           },
           "resistanceLevel": 20,
@@ -152,7 +152,7 @@
           "duration": null,
           "distance": 200,
           "targets": {
-            "Instantaneous Pace": "65%",
+            "Instantaneous Pace": "80%",
             "Stroke Rate": 18
           },
           "resistanceLevel": 20,
