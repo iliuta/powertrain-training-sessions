@@ -1,0 +1,113 @@
+{
+  "title": "Cadence ladder 32min",
+  "ftmsMachineType": "rower",
+  "isDistanceBased": false,
+  "intervals": [
+    {
+      "repeat": 1,
+      "intervals": [
+        {
+          "title": "Warm Up 1",
+          "duration": 60,
+          "targets": { "Instantaneous Pace": "82%", "Stroke Rate": 18 },
+          "resistanceLevel": 20,
+          "repeat": null
+        },
+        {
+          "title": "Warm Up 2",
+          "duration": 60,
+          "targets": { "Instantaneous Pace": "85%", "Stroke Rate": 20 },
+          "resistanceLevel": 30,
+          "repeat": null
+        },
+        {
+          "title": "Warm Up 3",
+          "duration": 60,
+          "targets": { "Instantaneous Pace": "88%", "Stroke Rate": 22 },
+          "resistanceLevel": 40,
+          "repeat": null
+        },
+        {
+          "title": "Warm Up 4",
+          "duration": 60,
+          "targets": { "Instantaneous Pace": "91%", "Stroke Rate": 24 },
+          "resistanceLevel": 40,
+          "repeat": null
+        },
+        {
+          "title": "Warm Up 5",
+          "duration": 60,
+          "targets": { "Instantaneous Pace": "94%", "Stroke Rate": 26 },
+          "resistanceLevel": 50,
+          "repeat": null
+        }
+      ]
+    },
+    {
+      "repeat": 3,
+      "intervals": [
+        {
+          "title": "Cadence 20 spm",
+          "duration": 240,
+          "targets": { "Instantaneous Pace": "90%", "Stroke Rate": 20 },
+          "resistanceLevel": 40,
+          "repeat": null
+        },
+        {
+          "title": "Easy recovery",
+          "duration": 120,
+          "targets": { "Instantaneous Pace": "86%", "Stroke Rate": 18 },
+          "resistanceLevel": 20,
+          "repeat": null
+        }
+      ]
+    },
+    {
+      "title": "Cadence 26 spm",
+      "duration": 240,
+      "targets": { "Instantaneous Pace": "96%", "Stroke Rate": 26 },
+      "resistanceLevel": 50,
+      "repeat": 1
+    },
+    {
+      "repeat": 1,
+      "intervals": [
+        {
+          "title": "Cool Down 1",
+          "duration": 60,
+          "targets": { "Instantaneous Pace": "88%", "Stroke Rate": 18 },
+          "resistanceLevel": 30,
+          "repeat": null
+        },
+        {
+          "title": "Cool Down 2",
+          "duration": 60,
+          "targets": { "Instantaneous Pace": "86%", "Stroke Rate": 18 },
+          "resistanceLevel": 20,
+          "repeat": null
+        },
+        {
+          "title": "Cool Down 3",
+          "duration": 60,
+          "targets": { "Instantaneous Pace": "84%", "Stroke Rate": 18 },
+          "resistanceLevel": 20,
+          "repeat": null
+        },
+        {
+          "title": "Cool Down 4",
+          "duration": 60,
+          "targets": { "Instantaneous Pace": "82%", "Stroke Rate": 16 },
+          "resistanceLevel": 20,
+          "repeat": null
+        },
+        {
+          "title": "Cool Down 5",
+          "duration": 60,
+          "targets": { "Instantaneous Pace": "80%", "Stroke Rate": 16 },
+          "resistanceLevel": 20,
+          "repeat": null
+        }
+      ]
+    }
+  ]
+}

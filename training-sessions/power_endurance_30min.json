@@ -1,0 +1,216 @@
+{
+  "title": "Power endurance 30min",
+  "ftmsMachineType": "rower",
+  "isDistanceBased": false,
+  "intervals": [
+    {
+      "repeat": 1,
+      "intervals": [
+        {
+          "title": "Warm Up 1",
+          "duration": 60,
+          "targets": { "Instantaneous Pace": "82%", "Stroke Rate": 18 },
+          "resistanceLevel": 20,
+          "repeat": null
+        },
+        {
+          "title": "Warm Up 2",
+          "duration": 60,
+          "targets": { "Instantaneous Pace": "85%", "Stroke Rate": 20 },
+          "resistanceLevel": 30,
+          "repeat": null
+        },
+        {
+          "title": "Warm Up 3",
+          "duration": 60,
+          "targets": { "Instantaneous Pace": "88%", "Stroke Rate": 22 },
+          "resistanceLevel": 40,
+          "repeat": null
+        },
+        {
+          "title": "Warm Up 4",
+          "duration": 60,
+          "targets": { "Instantaneous Pace": "91%", "Stroke Rate": 24 },
+          "resistanceLevel": 40,
+          "repeat": null
+        },
+        {
+          "title": "Warm Up 5",
+          "duration": 60,
+          "targets": { "Instantaneous Pace": "94%", "Stroke Rate": 26 },
+          "resistanceLevel": 50,
+          "repeat": null
+        }
+      ]
+    },
+    {
+      "repeat": 1,
+      "intervals": [
+        {
+          "title": "Power effort",
+          "duration": 45,
+          "targets": { "Instantaneous Pace": "108%", "Stroke Rate": 30 },
+          "resistanceLevel": 70,
+          "repeat": null
+        },
+        {
+          "title": "Easy recovery",
+          "duration": 75,
+          "targets": { "Instantaneous Pace": "86%", "Stroke Rate": 18 },
+          "resistanceLevel": 30,
+          "repeat": null
+        },
+        {
+          "title": "Power effort",
+          "duration": 45,
+          "targets": { "Instantaneous Pace": "108%", "Stroke Rate": 30 },
+          "resistanceLevel": 70,
+          "repeat": null
+        },
+        {
+          "title": "Easy recovery",
+          "duration": 75,
+          "targets": { "Instantaneous Pace": "86%", "Stroke Rate": 18 },
+          "resistanceLevel": 30,
+          "repeat": null
+        },
+        {
+          "title": "Power effort",
+          "duration": 45,
+          "targets": { "Instantaneous Pace": "108%", "Stroke Rate": 30 },
+          "resistanceLevel": 70,
+          "repeat": null
+        },
+        {
+          "title": "Easy recovery",
+          "duration": 75,
+          "targets": { "Instantaneous Pace": "86%", "Stroke Rate": 18 },
+          "resistanceLevel": 30,
+          "repeat": null
+        },
+        {
+          "title": "Power effort",
+          "duration": 45,
+          "targets": { "Instantaneous Pace": "108%", "Stroke Rate": 30 },
+          "resistanceLevel": 70,
+          "repeat": null
+        },
+        {
+          "title": "Easy recovery",
+          "duration": 75,
+          "targets": { "Instantaneous Pace": "86%", "Stroke Rate": 18 },
+          "resistanceLevel": 30,
+          "repeat": null
+        }
+      ]
+    },
+    {
+      "title": "Between-set recovery",
+      "duration": 240,
+      "targets": { "Instantaneous Pace": "86%", "Stroke Rate": 18 },
+      "resistanceLevel": 30,
+      "repeat": 1
+    },
+    {
+      "repeat": 1,
+      "intervals": [
+        {
+          "title": "Power effort",
+          "duration": 45,
+          "targets": { "Instantaneous Pace": "108%", "Stroke Rate": 30 },
+          "resistanceLevel": 70,
+          "repeat": null
+        },
+        {
+          "title": "Easy recovery",
+          "duration": 75,
+          "targets": { "Instantaneous Pace": "86%", "Stroke Rate": 18 },
+          "resistanceLevel": 30,
+          "repeat": null
+        },
+        {
+          "title": "Power effort",
+          "duration": 45,
+          "targets": { "Instantaneous Pace": "108%", "Stroke Rate": 30 },
+          "resistanceLevel": 70,
+          "repeat": null
+        },
+        {
+          "title": "Easy recovery",
+          "duration": 75,
+          "targets": { "Instantaneous Pace": "86%", "Stroke Rate": 18 },
+          "resistanceLevel": 30,
+          "repeat": null
+        },
+        {
+          "title": "Power effort",
+          "duration": 45,
+          "targets": { "Instantaneous Pace": "108%", "Stroke Rate": 30 },
+          "resistanceLevel": 70,
+          "repeat": null
+        },
+        {
+          "title": "Easy recovery",
+          "duration": 75,
+          "targets": { "Instantaneous Pace": "86%", "Stroke Rate": 18 },
+          "resistanceLevel": 30,
+          "repeat": null
+        },
+        {
+          "title": "Power effort",
+          "duration": 45,
+          "targets": { "Instantaneous Pace": "108%", "Stroke Rate": 30 },
+          "resistanceLevel": 70,
+          "repeat": null
+        },
+        {
+          "title": "Easy recovery",
+          "duration": 75,
+          "targets": { "Instantaneous Pace": "86%", "Stroke Rate": 18 },
+          "resistanceLevel": 30,
+          "repeat": null
+        }
+      ]
+    },
+    {
+      "repeat": 1,
+      "intervals": [
+        {
+          "title": "Cool Down 1",
+          "duration": 60,
+          "targets": { "Instantaneous Pace": "88%", "Stroke Rate": 18 },
+          "resistanceLevel": 30,
+          "repeat": null
+        },
+        {
+          "title": "Cool Down 2",
+          "duration": 60,
+          "targets": { "Instantaneous Pace": "86%", "Stroke Rate": 18 },
+          "resistanceLevel": 20,
+          "repeat": null
+        },
+        {
+          "title": "Cool Down 3",
+          "duration": 60,
+          "targets": { "Instantaneous Pace": "84%", "Stroke Rate": 18 },
+          "resistanceLevel": 20,
+          "repeat": null
+        },
+        {
+          "title": "Cool Down 4",
+          "duration": 60,
+          "targets": { "Instantaneous Pace": "82%", "Stroke Rate": 16 },
+          "resistanceLevel": 20,
+          "repeat": null
+        },
+        {
+          "title": "Cool Down 5",
+          "duration": 60,
+          "targets": { "Instantaneous Pace": "80%", "Stroke Rate": 16 },
+          "resistanceLevel": 20,
+          "repeat": null
+        }
+      ]
+    }
+  ]
+}
