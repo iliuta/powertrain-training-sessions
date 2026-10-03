@@ -13,6 +13,7 @@
             "Stroke Rate": 18
           },
           "resistanceLevel": 20,
+          "resistanceNeedsConversion": true,
           "repeat": null
         },
         {
@@ -23,6 +24,7 @@
             "Stroke Rate": 20
           },
           "resistanceLevel": 30,
+          "resistanceNeedsConversion": true,
           "repeat": null
         },
         {
@@ -33,6 +35,7 @@
             "Stroke Rate": 22
           },
           "resistanceLevel": 40,
+          "resistanceNeedsConversion": true,
           "repeat": null
         },
         {
@@ -43,6 +46,7 @@
             "Stroke Rate": 24
           },
           "resistanceLevel": 40,
+          "resistanceNeedsConversion": true,
           "repeat": null
         },
         {
@@ -53,6 +57,7 @@
             "Stroke Rate": 26
           },
           "resistanceLevel": 50,
+          "resistanceNeedsConversion": true,
           "repeat": null
         }
       ]
@@ -68,6 +73,7 @@
             "Stroke Rate": 20.0
           },
           "resistanceLevel": 60,
+          "resistanceNeedsConversion": true,
           "repeat": null
         },
         {
@@ -78,6 +84,7 @@
             "Instantaneous Pace": "88%"
           },
           "resistanceLevel": 60,
+          "resistanceNeedsConversion": true,
           "repeat": null
         }
       ]
@@ -93,6 +100,7 @@
             "Stroke Rate": 20
           },
           "resistanceLevel": 40,
+          "resistanceNeedsConversion": true,
           "repeat": null
         },
         {
@@ -102,6 +110,7 @@
             "Instantaneous Pace": "89%",
             "Stroke Rate": 20
           },
+          "resistanceNeedsConversion": true,
           "resistanceLevel": 30,
           "repeat": null
         },
@@ -112,6 +121,7 @@
             "Instantaneous Pace": "86%",
             "Stroke Rate": 20
           },
+          "resistanceNeedsConversion": true,
           "resistanceLevel": 30,
           "repeat": null
         },
@@ -122,6 +132,7 @@
             "Instantaneous Pace": "83%",
             "Stroke Rate": 20
           },
+          "resistanceNeedsConversion": true,
           "resistanceLevel": 20,
           "repeat": null
         },
@@ -133,6 +144,7 @@
             "Stroke Rate": 20
           },
           "resistanceLevel": 20,
+          "resistanceNeedsConversion": true,
           "repeat": null
         }
       ]

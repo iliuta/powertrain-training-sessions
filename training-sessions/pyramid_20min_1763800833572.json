@@ -13,6 +13,7 @@
             "Stroke Rate": 18
           },
           "resistanceLevel": 20,
+          "resistanceNeedsConversion": true,
           "repeat": null
         },
         {
@@ -23,6 +24,7 @@
             "Stroke Rate": 20
           },
           "resistanceLevel": 30,
+          "resistanceNeedsConversion": true,
           "repeat": null
         },
         {
@@ -33,6 +35,7 @@
             "Stroke Rate": 22
           },
           "resistanceLevel": 40,
+          "resistanceNeedsConversion": true,
           "repeat": null
         },
         {
@@ -42,6 +45,7 @@
             "Instantaneous Pace": "91%",
             "Stroke Rate": 24
           },
+          "resistanceNeedsConversion": true,
           "resistanceLevel": 40,
           "repeat": null
         },
@@ -52,6 +56,7 @@
             "Instantaneous Pace": "94%",
             "Stroke Rate": 26
           },
+          "resistanceNeedsConversion": true,
           "resistanceLevel": 50,
           "repeat": null
         }
@@ -67,6 +72,7 @@
             "Instantaneous Pace": "97%"
           },
           "resistanceLevel": 70,
+          "resistanceNeedsConversion": true,
           "repeat": null
         },
         {
@@ -76,6 +82,7 @@
             "Instantaneous Pace": "99%"
           },
           "resistanceLevel": 90,
+          "resistanceNeedsConversion": true,
           "repeat": null
         },
         {
@@ -85,6 +92,7 @@
             "Instantaneous Pace": "101%"
           },
           "resistanceLevel": 100,
+          "resistanceNeedsConversion": true,
           "repeat": null
         },
         {
@@ -94,6 +102,7 @@
             "Instantaneous Pace": "103%"
           },
           "resistanceLevel": 110,
+          "resistanceNeedsConversion": true,
           "repeat": null
         },
         {
@@ -103,6 +112,7 @@
             "Instantaneous Pace": "101%"
           },
           "resistanceLevel": 90,
+          "resistanceNeedsConversion": true,
           "repeat": null
         },
         {
@@ -112,6 +122,7 @@
             "Instantaneous Pace": "99%"
           },
           "resistanceLevel": 80,
+          "resistanceNeedsConversion": true,
           "repeat": null
         },
         {
@@ -121,6 +132,7 @@
             "Instantaneous Pace": "97%"
           },
           "resistanceLevel": 70,
+          "resistanceNeedsConversion": true,
           "repeat": null
         }
       ]
@@ -136,6 +148,7 @@
             "Stroke Rate": 20
           },
           "resistanceLevel": 40,
+          "resistanceNeedsConversion": true,
           "repeat": null
         },
         {
@@ -146,6 +159,7 @@
             "Stroke Rate": 20
           },
           "resistanceLevel": 30,
+          "resistanceNeedsConversion": true,
           "repeat": null
         },
         {
@@ -156,6 +170,7 @@
             "Stroke Rate": 20
           },
           "resistanceLevel": 30,
+          "resistanceNeedsConversion": true,
           "repeat": null
         },
         {
@@ -166,6 +181,7 @@
             "Stroke Rate": 20
           },
           "resistanceLevel": 20,
+          "resistanceNeedsConversion": true,
           "repeat": null
         },
         {
@@ -176,6 +192,7 @@
             "Stroke Rate": 20
           },
           "resistanceLevel": 20,
+          "resistanceNeedsConversion": true,
           "repeat": null
         }
       ]
